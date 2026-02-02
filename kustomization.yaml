@@ -3,4 +3,4 @@ kind: Kustomization
 images:
 - name: 730335563796.dkr.ecr.us-east-1.amazonaws.com/meu-projeto-gitops
   newName: 730335563796.dkr.ecr.us-east-1.amazonaws.com/meu-projeto-gitops
-  newTag: v1
+  newTag: v4
